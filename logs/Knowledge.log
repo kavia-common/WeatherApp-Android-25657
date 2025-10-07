@@ -1,0 +1,722 @@
+2025-10-07 04:26:07,544 - Knowledge - INFO - Redis support added with prefix knowledge:b0495wp:
+2025-10-07 04:26:07,804 - Knowledge - INFO - load persisted knowledge: begin
+2025-10-07 04:26:07,809 - Knowledge - INFO - load persisted knowledge: end
+2025-10-07 04:26:07,809 - Knowledge - INFO - load persisted docinfo: begin
+2025-10-07 04:26:07,811 - Knowledge - INFO - load persisted docinfo: end
+2025-10-07 04:26:07,872 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-10-07 04:26:07,872 - Knowledge - INFO - knowledge worker kw1 start
+2025-10-07 04:26:07,873 - Knowledge - INFO - worker kw1 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/settings.gradle from ingest queue
+2025-10-07 04:26:07,875 - Knowledge - INFO - worker kw2 created with dedicated MongoDB connection (total: 2)
+2025-10-07 04:26:07,875 - Knowledge - INFO - knowledge worker kw2 start
+2025-10-07 04:26:07,876 - Knowledge - INFO - worker kw2 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/test/java/com/aniketjain/weatherapp/ExampleUnitTest.java from ingest queue
+2025-10-07 04:26:07,877 - Knowledge - INFO - worker kw3 created with dedicated MongoDB connection (total: 3)
+2025-10-07 04:26:07,877 - Knowledge - INFO - knowledge worker kw3 start
+2025-10-07 04:26:07,878 - Knowledge - INFO - worker kw4 created with dedicated MongoDB connection (total: 4)
+2025-10-07 04:26:07,879 - Knowledge - INFO - knowledge worker kw4 start
+2025-10-07 04:26:07,879 - Knowledge - INFO - worker kw5 created with dedicated MongoDB connection (total: 5)
+2025-10-07 04:26:07,880 - Knowledge - INFO - knowledge worker kw5 start
+2025-10-07 04:26:07,881 - Knowledge - INFO - worker kw6 created with dedicated MongoDB connection (total: 6)
+2025-10-07 04:26:07,881 - Knowledge - INFO - knowledge worker kw6 start
+2025-10-07 04:26:07,883 - Knowledge - INFO - worker kw7 created with dedicated MongoDB connection (total: 7)
+2025-10-07 04:26:07,883 - Knowledge - INFO - knowledge worker kw7 start
+2025-10-07 04:26:07,885 - Knowledge - INFO - worker kw8 created with dedicated MongoDB connection (total: 8)
+2025-10-07 04:26:07,885 - Knowledge - INFO - knowledge worker kw8 start
+2025-10-07 04:26:07,886 - Knowledge - INFO - worker kw8 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/androidTest/java/com/aniketjain/weatherapp/ExampleInstrumentedTest.java from ingest queue
+2025-10-07 04:26:07,888 - Knowledge - INFO - worker kw9 created with dedicated MongoDB connection (total: 9)
+2025-10-07 04:26:07,888 - Knowledge - INFO - knowledge worker kw9 start
+2025-10-07 04:26:07,889 - Knowledge - INFO - worker kw10 created with dedicated MongoDB connection (total: 10)
+2025-10-07 04:26:07,890 - Knowledge - INFO - knowledge worker kw10 start
+2025-10-07 04:26:07,891 - Knowledge - INFO - worker kw11 created with dedicated MongoDB connection (total: 11)
+2025-10-07 04:26:07,892 - Knowledge - INFO - knowledge worker kw11 start
+2025-10-07 04:26:07,893 - Knowledge - INFO - worker kw12 created with dedicated MongoDB connection (total: 12)
+2025-10-07 04:26:07,893 - Knowledge - INFO - knowledge worker kw12 start
+2025-10-07 04:26:07,895 - Knowledge - INFO - worker kw4 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/network/InternetConnectivity.java from ingest queue
+2025-10-07 04:26:07,897 - Knowledge - INFO - worker kw6 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/HomeActivity.java from ingest queue
+2025-10-07 04:26:07,898 - Knowledge - INFO - worker kw10 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/adapter/DaysAdapter.java from ingest queue
+2025-10-07 04:26:07,901 - Knowledge - INFO - worker kw11 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/CityFinder.java from ingest queue
+2025-10-07 04:26:07,902 - Knowledge - INFO - worker kw5 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/LocationCord.java from ingest queue
+2025-10-07 04:26:07,903 - Knowledge - INFO - worker kw12 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/url/URL.java from ingest queue
+2025-10-07 04:26:07,905 - Knowledge - INFO - worker kw9 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/update/UpdateUI.java from ingest queue
+2025-10-07 04:26:07,908 - Knowledge - INFO - worker kw7 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/SplashScreen.java from ingest queue
+2025-10-07 04:26:07,908 - Knowledge - INFO - worker kw3 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/toast/Toaster.java from ingest queue
+2025-10-07 04:26:07,912 - Knowledge - INFO - worker kw13 created with dedicated MongoDB connection (total: 13)
+2025-10-07 04:26:07,913 - Knowledge - INFO - knowledge worker kw13 start
+2025-10-07 04:26:07,938 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/settings.gradle
+2025-10-07 04:26:07,941 - Knowledge - INFO - worker kw13 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/colors.xml from ingest queue
+2025-10-07 04:26:07,946 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:07,946 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:07,947 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/settings.gradle
+2025-10-07 04:26:07,948 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/test/java/com/aniketjain/weatherapp/ExampleUnitTest.java
+2025-10-07 04:26:07,949 - Knowledge - INFO - worker kw14 created with dedicated MongoDB connection (total: 14)
+2025-10-07 04:26:07,950 - Knowledge - INFO - knowledge worker kw14 start
+2025-10-07 04:26:07,952 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/HomeActivity.java
+2025-10-07 04:26:07,953 - Knowledge - INFO - worker kw15 created with dedicated MongoDB connection (total: 15)
+2025-10-07 04:26:07,954 - Knowledge - INFO - knowledge worker kw15 start
+2025-10-07 04:26:07,955 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/androidTest/java/com/aniketjain/weatherapp/ExampleInstrumentedTest.java
+2025-10-07 04:26:07,956 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/update/UpdateUI.java
+2025-10-07 04:26:07,959 - Knowledge - INFO - worker kw16 created with dedicated MongoDB connection (total: 16)
+2025-10-07 04:26:07,959 - Knowledge - INFO - knowledge worker kw16 start
+2025-10-07 04:26:07,962 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/CityFinder.java
+2025-10-07 04:26:08,022 - Knowledge - INFO - worker kw17 created with dedicated MongoDB connection (total: 17)
+2025-10-07 04:26:08,022 - Knowledge - INFO - knowledge worker kw17 start
+2025-10-07 04:26:08,027 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/network/InternetConnectivity.java
+2025-10-07 04:26:08,029 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/adapter/DaysAdapter.java
+2025-10-07 04:26:08,029 - Knowledge - INFO - worker kw18 created with dedicated MongoDB connection (total: 18)
+2025-10-07 04:26:08,030 - Knowledge - INFO - knowledge worker kw18 start
+2025-10-07 04:26:08,031 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/SplashScreen.java
+2025-10-07 04:26:08,031 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/url/URL.java
+2025-10-07 04:26:08,032 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/LocationCord.java
+2025-10-07 04:26:08,033 - Knowledge - INFO - worker kw19 created with dedicated MongoDB connection (total: 19)
+2025-10-07 04:26:08,034 - Knowledge - INFO - knowledge worker kw19 start
+2025-10-07 04:26:08,037 - Knowledge - INFO - worker kw20 created with dedicated MongoDB connection (total: 20)
+2025-10-07 04:26:08,039 - Knowledge - INFO - knowledge worker kw20 start
+2025-10-07 04:26:08,040 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/colors.xml
+2025-10-07 04:26:08,041 - Knowledge - WARNING - High connection count: 21 connections active
+2025-10-07 04:26:08,042 - Knowledge - INFO - worker kw21 created with dedicated MongoDB connection (total: 21)
+2025-10-07 04:26:08,042 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/toast/Toaster.java
+2025-10-07 04:26:08,043 - Knowledge - INFO - knowledge worker kw21 start
+2025-10-07 04:26:08,045 - Knowledge - WARNING - High connection count: 22 connections active
+2025-10-07 04:26:08,045 - Knowledge - INFO - worker kw22 created with dedicated MongoDB connection (total: 22)
+2025-10-07 04:26:08,045 - Knowledge - INFO - knowledge worker kw22 start
+2025-10-07 04:26:08,047 - Knowledge - WARNING - High connection count: 23 connections active
+2025-10-07 04:26:08,047 - Knowledge - INFO - worker kw23 created with dedicated MongoDB connection (total: 23)
+2025-10-07 04:26:08,047 - Knowledge - INFO - knowledge worker kw23 start
+2025-10-07 04:26:08,048 - Knowledge - WARNING - High connection count: 24 connections active
+2025-10-07 04:26:08,049 - Knowledge - INFO - worker kw24 created with dedicated MongoDB connection (total: 24)
+2025-10-07 04:26:08,049 - Knowledge - INFO - knowledge worker kw24 start
+2025-10-07 04:26:08,050 - Knowledge - WARNING - High connection count: 25 connections active
+2025-10-07 04:26:08,050 - Knowledge - INFO - worker kw25 created with dedicated MongoDB connection (total: 25)
+2025-10-07 04:26:08,051 - Knowledge - INFO - knowledge worker kw25 start
+2025-10-07 04:26:08,053 - Knowledge - WARNING - High connection count: 26 connections active
+2025-10-07 04:26:08,053 - Knowledge - INFO - worker kw26 created with dedicated MongoDB connection (total: 26)
+2025-10-07 04:26:08,053 - Knowledge - INFO - knowledge worker kw26 start
+2025-10-07 04:26:08,055 - Knowledge - WARNING - High connection count: 27 connections active
+2025-10-07 04:26:08,055 - Knowledge - INFO - worker kw27 created with dedicated MongoDB connection (total: 27)
+2025-10-07 04:26:08,055 - Knowledge - INFO - knowledge worker kw27 start
+2025-10-07 04:26:08,056 - Knowledge - WARNING - High connection count: 28 connections active
+2025-10-07 04:26:08,056 - Knowledge - INFO - worker kw28 created with dedicated MongoDB connection (total: 28)
+2025-10-07 04:26:08,057 - Knowledge - INFO - knowledge worker kw28 start
+2025-10-07 04:26:08,058 - Knowledge - WARNING - High connection count: 29 connections active
+2025-10-07 04:26:08,058 - Knowledge - INFO - worker kw29 created with dedicated MongoDB connection (total: 29)
+2025-10-07 04:26:08,059 - Knowledge - INFO - knowledge worker kw29 start
+2025-10-07 04:26:08,060 - Knowledge - WARNING - High connection count: 30 connections active
+2025-10-07 04:26:08,060 - Knowledge - INFO - worker kw30 created with dedicated MongoDB connection (total: 30)
+2025-10-07 04:26:08,060 - Knowledge - INFO - knowledge worker kw30 start
+2025-10-07 04:26:08,061 - Knowledge - INFO - worker kw14 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/strings.xml from ingest queue
+2025-10-07 04:26:08,062 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,062 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,062 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/test/java/com/aniketjain/weatherapp/ExampleUnitTest.java
+2025-10-07 04:26:08,063 - Knowledge - INFO - worker kw15 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/themes.xml from ingest queue
+2025-10-07 04:26:08,063 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,064 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,064 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/HomeActivity.java
+2025-10-07 04:26:08,064 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,064 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,064 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/androidTest/java/com/aniketjain/weatherapp/ExampleInstrumentedTest.java
+2025-10-07 04:26:08,066 - Knowledge - INFO - worker kw16 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_error_outline_24.xml from ingest queue
+2025-10-07 04:26:08,067 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,068 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,068 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/update/UpdateUI.java
+2025-10-07 04:26:08,068 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,068 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,068 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/CityFinder.java
+2025-10-07 04:26:08,069 - Knowledge - INFO - worker kw17 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_foreground.xml from ingest queue
+2025-10-07 04:26:08,072 - Knowledge - INFO - worker kw18 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_main_background.xml from ingest queue
+2025-10-07 04:26:08,072 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,072 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,073 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/adapter/DaysAdapter.java
+2025-10-07 04:26:08,073 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,073 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,073 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/SplashScreen.java
+2025-10-07 04:26:08,074 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,074 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,074 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/network/InternetConnectivity.java
+2025-10-07 04:26:08,127 - Knowledge - INFO - worker kw19 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_background.xml from ingest queue
+2025-10-07 04:26:08,131 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,131 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,131 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/LocationCord.java
+2025-10-07 04:26:08,136 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/strings.xml
+2025-10-07 04:26:08,142 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/themes.xml
+2025-10-07 04:26:08,146 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_foreground.xml
+2025-10-07 04:26:08,147 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_error_outline_24.xml
+2025-10-07 04:26:08,161 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_main_background.xml
+2025-10-07 04:26:08,162 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_background.xml
+2025-10-07 04:26:08,192 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,192 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,192 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/url/URL.java
+2025-10-07 04:26:08,192 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,192 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,192 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/colors.xml
+2025-10-07 04:26:08,192 - Knowledge - INFO - worker kw21 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_check_24.xml from ingest queue
+2025-10-07 04:26:08,193 - Knowledge - INFO - worker kw22 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/raw/cloud_cycle_lottie.json from ingest queue
+2025-10-07 04:26:08,194 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,194 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,194 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/toast/Toaster.java
+2025-10-07 04:26:08,195 - Knowledge - INFO - worker kw23 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-de/strings.xml from ingest queue
+2025-10-07 04:26:08,196 - Knowledge - INFO - worker kw24 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/day_item_layout.xml from ingest queue
+2025-10-07 04:26:08,196 - Knowledge - INFO - worker kw25 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_home.xml from ingest queue
+2025-10-07 04:26:08,198 - Knowledge - INFO - worker kw26 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/main_layout.xml from ingest queue
+2025-10-07 04:26:08,199 - Knowledge - INFO - worker kw27 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_splash_screen.xml from ingest queue
+2025-10-07 04:26:08,200 - Knowledge - INFO - worker kw28 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml from ingest queue
+2025-10-07 04:26:08,201 - Knowledge - INFO - worker kw29 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main_round.xml from ingest queue
+2025-10-07 04:26:08,203 - Knowledge - INFO - worker kw30 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml from ingest queue
+2025-10-07 04:26:08,204 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/settings.gradle to ingest queue
+2025-10-07 04:26:08,243 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_splash_screen.xml
+2025-10-07 04:26:08,248 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-de/strings.xml
+2025-10-07 04:26:08,249 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_check_24.xml
+2025-10-07 04:26:08,255 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/raw/cloud_cycle_lottie.json
+2025-10-07 04:26:08,255 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+2025-10-07 04:26:08,331 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/day_item_layout.xml
+2025-10-07 04:26:08,332 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_home.xml
+2025-10-07 04:26:08,333 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+2025-10-07 04:26:08,335 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/main_layout.xml
+2025-10-07 04:26:08,338 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main_round.xml
+2025-10-07 04:26:08,686 - Knowledge - INFO - worker kw20 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main.xml from ingest queue
+2025-10-07 04:26:08,686 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,687 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,687 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/strings.xml
+2025-10-07 04:26:08,687 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,687 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,687 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/themes.xml
+2025-10-07 04:26:08,688 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,688 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,688 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_foreground.xml
+2025-10-07 04:26:08,689 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,689 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,689 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_error_outline_24.xml
+2025-10-07 04:26:08,711 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main.xml
+2025-10-07 04:26:08,745 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,745 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,745 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_background.xml
+2025-10-07 04:26:08,803 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/LocationCord.java to ingest queue
+2025-10-07 04:26:08,804 - Knowledge - INFO - worker kw5 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-fr/strings.xml from ingest queue
+2025-10-07 04:26:08,806 - Knowledge - INFO - worker kw1 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-es/strings.xml from ingest queue
+2025-10-07 04:26:08,807 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,807 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,807 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-de/strings.xml
+2025-10-07 04:26:08,808 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,808 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,808 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_check_24.xml
+2025-10-07 04:26:08,809 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,810 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,810 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+2025-10-07 04:26:08,810 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,810 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,810 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/raw/cloud_cycle_lottie.json
+2025-10-07 04:26:08,811 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,811 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,811 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/day_item_layout.xml
+2025-10-07 04:26:08,811 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,811 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,811 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_home.xml
+2025-10-07 04:26:08,812 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,812 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,812 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+2025-10-07 04:26:08,812 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,812 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,812 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/main_layout.xml
+2025-10-07 04:26:08,812 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:08,812 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:08,812 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main_round.xml
+2025-10-07 04:26:08,813 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/test/java/com/aniketjain/weatherapp/ExampleUnitTest.java to ingest queue
+2025-10-07 04:26:08,813 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/HomeActivity.java to ingest queue
+2025-10-07 04:26:08,813 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/androidTest/java/com/aniketjain/weatherapp/ExampleInstrumentedTest.java to ingest queue
+2025-10-07 04:26:08,813 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/update/UpdateUI.java to ingest queue
+2025-10-07 04:26:08,814 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/CityFinder.java to ingest queue
+2025-10-07 04:26:08,814 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/adapter/DaysAdapter.java to ingest queue
+2025-10-07 04:26:08,814 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/SplashScreen.java to ingest queue
+2025-10-07 04:26:08,815 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/network/InternetConnectivity.java to ingest queue
+2025-10-07 04:26:08,837 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-fr/strings.xml
+2025-10-07 04:26:08,838 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-es/strings.xml
+2025-10-07 04:26:08,974 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_foreground.xml to ingest queue
+2025-10-07 04:26:08,974 - Knowledge - INFO - worker kw17 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/strings.xml from ingest queue
+2025-10-07 04:26:09,002 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/strings.xml
+2025-10-07 04:26:09,035 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/url/URL.java to ingest queue
+2025-10-07 04:26:09,134 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:09,134 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:09,134 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_splash_screen.xml
+2025-10-07 04:26:09,382 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/day_item_layout.xml to ingest queue
+2025-10-07 04:26:09,529 - Knowledge - INFO - worker kw2 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/themes.xml from ingest queue
+2025-10-07 04:26:09,529 - Knowledge - INFO - worker kw6 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/AndroidManifest.xml from ingest queue
+2025-10-07 04:26:09,530 - Knowledge - INFO - worker kw9 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/build.gradle from ingest queue
+2025-10-07 04:26:09,531 - Knowledge - INFO - worker kw10 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/proguard-rules.pro from ingest queue
+2025-10-07 04:26:09,532 - Knowledge - INFO - worker kw4 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CODE_OF_CONDUCT.md from ingest queue
+2025-10-07 04:26:09,536 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:09,536 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:09,537 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-es/strings.xml
+2025-10-07 04:26:09,537 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/themes.xml to ingest queue
+2025-10-07 04:26:09,538 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:09,538 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:09,538 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_main_background.xml
+2025-10-07 04:26:09,540 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_error_outline_24.xml to ingest queue
+2025-10-07 04:26:09,541 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:09,541 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:09,541 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main.xml
+2025-10-07 04:26:09,542 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:09,542 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:09,542 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/strings.xml
+2025-10-07 04:26:09,542 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_background.xml to ingest queue
+2025-10-07 04:26:09,542 - Knowledge - INFO - worker kw12 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/build.gradle from ingest queue
+2025-10-07 04:26:09,543 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/toast/Toaster.java to ingest queue
+2025-10-07 04:26:09,545 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/colors.xml to ingest queue
+2025-10-07 04:26:09,545 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-de/strings.xml to ingest queue
+2025-10-07 04:26:09,546 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_check_24.xml to ingest queue
+2025-10-07 04:26:09,547 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml to ingest queue
+2025-10-07 04:26:09,548 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/raw/cloud_cycle_lottie.json to ingest queue
+2025-10-07 04:26:09,562 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/proguard-rules.pro
+2025-10-07 04:26:09,565 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CODE_OF_CONDUCT.md
+2025-10-07 04:26:09,566 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/build.gradle
+2025-10-07 04:26:09,568 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/themes.xml
+2025-10-07 04:26:09,569 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/AndroidManifest.xml
+2025-10-07 04:26:09,574 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/build.gradle
+2025-10-07 04:26:09,630 - Knowledge - INFO - worker kw24 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/README.md from ingest queue
+2025-10-07 04:26:09,630 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml to ingest queue
+2025-10-07 04:26:09,631 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/main_layout.xml to ingest queue
+2025-10-07 04:26:09,632 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main_round.xml to ingest queue
+2025-10-07 04:26:09,633 - Knowledge - INFO - worker kw11 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/index.html from ingest queue
+2025-10-07 04:26:09,634 - Knowledge - INFO - worker kw7 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/SECURITY.md from ingest queue
+2025-10-07 04:26:09,637 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/strings.xml to ingest queue
+2025-10-07 04:26:09,657 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/SECURITY.md
+2025-10-07 04:26:09,657 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/index.html
+2025-10-07 04:26:09,658 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/README.md
+2025-10-07 04:26:09,690 - Knowledge - INFO - worker kw15 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CONTRIBUTING.md from ingest queue
+2025-10-07 04:26:09,715 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CONTRIBUTING.md
+2025-10-07 04:26:09,847 - Knowledge - INFO - worker kw19 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/settings.gradle from ingest queue
+2025-10-07 04:26:09,847 - Knowledge - INFO - Thread kw19 - File settings.gradle - Remaining files in queue: 25
+2025-10-07 04:26:09,847 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/settings.gradle
+2025-10-07 04:26:09,847 - Knowledge - INFO - worker kw3 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/LocationCord.java from ingest queue
+2025-10-07 04:26:09,847 - Knowledge - INFO - Thread kw3 - File LocationCord.java - Remaining files in queue: 24
+2025-10-07 04:26:09,847 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/LocationCord.java
+2025-10-07 04:26:09,848 - Knowledge - INFO - worker kw23 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/test/java/com/aniketjain/weatherapp/ExampleUnitTest.java from ingest queue
+2025-10-07 04:26:09,848 - Knowledge - INFO - Thread kw23 - File ExampleUnitTest.java - Remaining files in queue: 23
+2025-10-07 04:26:09,848 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/test/java/com/aniketjain/weatherapp/ExampleUnitTest.java
+2025-10-07 04:26:09,848 - Knowledge - INFO - worker kw22 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/HomeActivity.java from ingest queue
+2025-10-07 04:26:09,848 - Knowledge - INFO - Thread kw22 - File HomeActivity.java - Remaining files in queue: 22
+2025-10-07 04:26:09,849 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/HomeActivity.java
+2025-10-07 04:26:09,849 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:09,849 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:09,849 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/proguard-rules.pro
+2025-10-07 04:26:09,849 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:09,850 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:09,850 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/build.gradle
+2025-10-07 04:26:09,850 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:09,850 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:09,850 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/themes.xml
+2025-10-07 04:26:09,850 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:09,850 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:09,851 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/AndroidManifest.xml
+2025-10-07 04:26:09,851 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:09,851 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:09,851 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/build.gradle
+2025-10-07 04:26:09,851 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_home.xml to ingest queue
+2025-10-07 04:26:09,852 - Knowledge - INFO - worker kw8 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/androidTest/java/com/aniketjain/weatherapp/ExampleInstrumentedTest.java from ingest queue
+2025-10-07 04:26:09,852 - Knowledge - INFO - Thread kw8 - File ExampleInstrumentedTest.java - Remaining files in queue: 22
+2025-10-07 04:26:09,853 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/androidTest/java/com/aniketjain/weatherapp/ExampleInstrumentedTest.java
+2025-10-07 04:26:09,853 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/settings.gradle
+2025-10-07 04:26:09,853 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/settings.gradle
+2025-10-07 04:26:09,853 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/settings.gradle
+2025-10-07 04:26:09,853 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/test/java/com/aniketjain/weatherapp/ExampleUnitTest.java
+2025-10-07 04:26:09,853 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/test/java/com/aniketjain/weatherapp/ExampleUnitTest.java
+2025-10-07 04:26:09,854 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/test/java/com/aniketjain/weatherapp/ExampleUnitTest.java
+2025-10-07 04:26:09,854 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:09,854 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:09,854 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-fr/strings.xml
+2025-10-07 04:26:09,854 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/LocationCord.java
+2025-10-07 04:26:09,854 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/LocationCord.java
+2025-10-07 04:26:09,855 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/LocationCord.java
+2025-10-07 04:26:09,956 - Knowledge - INFO - worker kw26 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/update/UpdateUI.java from ingest queue
+2025-10-07 04:26:09,956 - Knowledge - INFO - Thread kw26 - File UpdateUI.java - Remaining files in queue: 21
+2025-10-07 04:26:09,956 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/update/UpdateUI.java
+2025-10-07 04:26:09,956 - Knowledge - INFO - worker kw14 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/CityFinder.java from ingest queue
+2025-10-07 04:26:09,956 - Knowledge - INFO - Thread kw14 - File CityFinder.java - Remaining files in queue: 20
+2025-10-07 04:26:09,956 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/CityFinder.java
+2025-10-07 04:26:09,957 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:09,957 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:09,957 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/index.html
+2025-10-07 04:26:09,963 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:09,963 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:09,963 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/README.md
+2025-10-07 04:26:09,963 - Knowledge - INFO - worker kw16 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/adapter/DaysAdapter.java from ingest queue
+2025-10-07 04:26:09,964 - Knowledge - INFO - Thread kw16 - File DaysAdapter.java - Remaining files in queue: 19
+2025-10-07 04:26:09,964 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/adapter/DaysAdapter.java
+2025-10-07 04:26:09,964 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_main_background.xml to ingest queue
+2025-10-07 04:26:09,965 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main.xml to ingest queue
+2025-10-07 04:26:09,967 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/strings.xml to ingest queue
+2025-10-07 04:26:09,967 - Knowledge - INFO - worker kw17 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/SplashScreen.java from ingest queue
+2025-10-07 04:26:09,967 - Knowledge - INFO - Thread kw17 - File SplashScreen.java - Remaining files in queue: 21
+2025-10-07 04:26:09,967 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/SplashScreen.java
+2025-10-07 04:26:09,968 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_splash_screen.xml to ingest queue
+2025-10-07 04:26:09,969 - Knowledge - INFO - worker kw28 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/network/InternetConnectivity.java from ingest queue
+2025-10-07 04:26:09,969 - Knowledge - INFO - Thread kw28 - File InternetConnectivity.java - Remaining files in queue: 21
+2025-10-07 04:26:09,969 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/network/InternetConnectivity.java
+2025-10-07 04:26:09,970 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:09,970 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:09,970 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CODE_OF_CONDUCT.md
+2025-10-07 04:26:10,360 - Knowledge - INFO - worker kw25 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_foreground.xml from ingest queue
+2025-10-07 04:26:10,360 - Knowledge - INFO - Thread kw25 - File ic_launcher_foreground.xml - Remaining files in queue: 20
+2025-10-07 04:26:10,361 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_foreground.xml
+2025-10-07 04:26:10,366 - Knowledge - INFO - worker kw30 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/url/URL.java from ingest queue
+2025-10-07 04:26:10,366 - Knowledge - INFO - Thread kw30 - File URL.java - Remaining files in queue: 19
+2025-10-07 04:26:10,366 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/url/URL.java
+2025-10-07 04:26:10,367 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:10,367 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:10,367 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/test/java/com/aniketjain/weatherapp/ExampleUnitTest.java
+2025-10-07 04:26:10,368 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:10,368 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:10,368 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/LocationCord.java
+2025-10-07 04:26:10,368 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-es/strings.xml to ingest queue
+2025-10-07 04:26:10,368 - Knowledge - INFO - worker kw1 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/day_item_layout.xml from ingest queue
+2025-10-07 04:26:10,368 - Knowledge - INFO - Thread kw1 - File day_item_layout.xml - Remaining files in queue: 19
+2025-10-07 04:26:10,369 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/day_item_layout.xml
+2025-10-07 04:26:10,369 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_foreground.xml
+2025-10-07 04:26:10,369 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_foreground.xml
+2025-10-07 04:26:10,370 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:10,370 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:10,370 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/SECURITY.md
+2025-10-07 04:26:10,372 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_foreground.xml
+2025-10-07 04:26:10,376 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/day_item_layout.xml
+2025-10-07 04:26:10,376 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/day_item_layout.xml
+2025-10-07 04:26:10,377 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/day_item_layout.xml
+2025-10-07 04:26:10,478 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:10,478 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:10,479 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CONTRIBUTING.md
+2025-10-07 04:26:10,479 - Knowledge - INFO - worker kw18 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/themes.xml from ingest queue
+2025-10-07 04:26:10,479 - Knowledge - INFO - Thread kw18 - File themes.xml - Remaining files in queue: 18
+2025-10-07 04:26:10,479 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/themes.xml
+2025-10-07 04:26:10,479 - Knowledge - INFO - worker kw20 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_error_outline_24.xml from ingest queue
+2025-10-07 04:26:10,479 - Knowledge - INFO - Thread kw20 - File ic_baseline_error_outline_24.xml - Remaining files in queue: 17
+2025-10-07 04:26:10,480 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_error_outline_24.xml
+2025-10-07 04:26:10,480 - Knowledge - INFO - worker kw21 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_background.xml from ingest queue
+2025-10-07 04:26:10,480 - Knowledge - INFO - Thread kw21 - File ic_launcher_background.xml - Remaining files in queue: 16
+2025-10-07 04:26:10,480 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_background.xml
+2025-10-07 04:26:10,481 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/themes.xml
+2025-10-07 04:26:10,481 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/themes.xml
+2025-10-07 04:26:10,481 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/themes.xml
+2025-10-07 04:26:10,482 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_error_outline_24.xml
+2025-10-07 04:26:10,483 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_error_outline_24.xml
+2025-10-07 04:26:10,483 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_error_outline_24.xml
+2025-10-07 04:26:10,483 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_background.xml
+2025-10-07 04:26:10,483 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_background.xml
+2025-10-07 04:26:10,483 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_background.xml
+2025-10-07 04:26:10,540 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/build.gradle to ingest queue
+2025-10-07 04:26:10,540 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/themes.xml to ingest queue
+2025-10-07 04:26:10,541 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:10,541 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:10,541 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/settings.gradle
+2025-10-07 04:26:10,759 - Knowledge - INFO - worker kw29 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/toast/Toaster.java from ingest queue
+2025-10-07 04:26:10,759 - Knowledge - INFO - Thread kw29 - File Toaster.java - Remaining files in queue: 17
+2025-10-07 04:26:10,759 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/toast/Toaster.java
+2025-10-07 04:26:10,985 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:10,985 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:10,985 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_foreground.xml
+2025-10-07 04:26:11,031 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:11,032 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:11,032 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/day_item_layout.xml
+2025-10-07 04:26:11,186 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/README.md to ingest queue
+2025-10-07 04:26:11,194 - Knowledge - INFO - worker kw13 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/colors.xml from ingest queue
+2025-10-07 04:26:11,195 - Knowledge - INFO - Thread kw13 - File colors.xml - Remaining files in queue: 17
+2025-10-07 04:26:11,195 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/colors.xml
+2025-10-07 04:26:11,196 - Knowledge - INFO - worker kw27 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-de/strings.xml from ingest queue
+2025-10-07 04:26:11,196 - Knowledge - INFO - Thread kw27 - File strings.xml - Remaining files in queue: 16
+2025-10-07 04:26:11,196 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-de/strings.xml
+2025-10-07 04:26:11,201 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:11,201 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:11,201 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/themes.xml
+2025-10-07 04:26:11,201 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:11,202 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:11,202 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_launcher_background.xml
+2025-10-07 04:26:11,224 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CODE_OF_CONDUCT.md to ingest queue
+2025-10-07 04:26:11,227 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/AndroidManifest.xml to ingest queue
+2025-10-07 04:26:11,231 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/colors.xml
+2025-10-07 04:26:11,231 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/colors.xml
+2025-10-07 04:26:11,231 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/colors.xml
+2025-10-07 04:26:11,247 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/build.gradle to ingest queue
+2025-10-07 04:26:11,259 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-de/strings.xml
+2025-10-07 04:26:11,259 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-de/strings.xml
+2025-10-07 04:26:11,259 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-de/strings.xml
+2025-10-07 04:26:11,472 - Knowledge - INFO - worker kw23 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_check_24.xml from ingest queue
+2025-10-07 04:26:11,472 - Knowledge - INFO - Thread kw23 - File ic_baseline_check_24.xml - Remaining files in queue: 18
+2025-10-07 04:26:11,472 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_check_24.xml
+2025-10-07 04:26:11,472 - Knowledge - INFO - worker kw3 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml from ingest queue
+2025-10-07 04:26:11,473 - Knowledge - INFO - Thread kw3 - File ic_launcher.xml - Remaining files in queue: 17
+2025-10-07 04:26:11,473 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+2025-10-07 04:26:11,488 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+2025-10-07 04:26:11,488 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+2025-10-07 04:26:11,488 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+2025-10-07 04:26:11,528 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_check_24.xml
+2025-10-07 04:26:11,528 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_check_24.xml
+2025-10-07 04:26:11,529 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_check_24.xml
+2025-10-07 04:26:11,939 - Knowledge - INFO - worker kw24 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/raw/cloud_cycle_lottie.json from ingest queue
+2025-10-07 04:26:11,939 - Knowledge - INFO - Thread kw24 - File cloud_cycle_lottie.json - Remaining files in queue: 16
+2025-10-07 04:26:11,940 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/raw/cloud_cycle_lottie.json
+2025-10-07 04:26:11,953 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/raw/cloud_cycle_lottie.json
+2025-10-07 04:26:11,953 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/raw/cloud_cycle_lottie.json
+2025-10-07 04:26:11,953 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/raw/cloud_cycle_lottie.json
+2025-10-07 04:26:12,560 - Knowledge - INFO - worker kw4 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml from ingest queue
+2025-10-07 04:26:12,560 - Knowledge - INFO - Thread kw4 - File ic_launcher_round.xml - Remaining files in queue: 15
+2025-10-07 04:26:12,561 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+2025-10-07 04:26:12,565 - Knowledge - INFO - worker kw6 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/main_layout.xml from ingest queue
+2025-10-07 04:26:12,565 - Knowledge - INFO - Thread kw6 - File main_layout.xml - Remaining files in queue: 14
+2025-10-07 04:26:12,566 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/main_layout.xml
+2025-10-07 04:26:12,571 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:12,571 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:12,571 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/colors.xml
+2025-10-07 04:26:12,572 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/main_layout.xml
+2025-10-07 04:26:12,572 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/main_layout.xml
+2025-10-07 04:26:12,572 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/main_layout.xml
+2025-10-07 04:26:12,573 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-fr/strings.xml to ingest queue
+2025-10-07 04:26:12,575 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+2025-10-07 04:26:12,575 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+2025-10-07 04:26:12,575 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+2025-10-07 04:26:12,577 - Knowledge - INFO - worker kw12 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main_round.xml from ingest queue
+2025-10-07 04:26:12,577 - Knowledge - INFO - Thread kw12 - File ic_main_round.xml - Remaining files in queue: 14
+2025-10-07 04:26:12,577 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main_round.xml
+2025-10-07 04:26:12,589 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main_round.xml
+2025-10-07 04:26:12,590 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main_round.xml
+2025-10-07 04:26:12,590 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main_round.xml
+2025-10-07 04:26:12,751 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/index.html to ingest queue
+2025-10-07 04:26:12,755 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:12,755 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:12,755 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+2025-10-07 04:26:12,760 - Knowledge - INFO - worker kw25 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/strings.xml from ingest queue
+2025-10-07 04:26:12,760 - Knowledge - INFO - Thread kw25 - File strings.xml - Remaining files in queue: 14
+2025-10-07 04:26:12,762 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/strings.xml
+2025-10-07 04:26:12,765 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CONTRIBUTING.md to ingest queue
+2025-10-07 04:26:12,767 - Knowledge - INFO - worker kw1 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_home.xml from ingest queue
+2025-10-07 04:26:12,767 - Knowledge - INFO - Thread kw1 - File activity_home.xml - Remaining files in queue: 14
+2025-10-07 04:26:12,768 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_home.xml
+2025-10-07 04:26:12,768 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:12,768 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:12,768 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/raw/cloud_cycle_lottie.json
+2025-10-07 04:26:12,774 - Knowledge - INFO - worker kw18 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_main_background.xml from ingest queue
+2025-10-07 04:26:12,774 - Knowledge - INFO - Thread kw18 - File ic_main_background.xml - Remaining files in queue: 13
+2025-10-07 04:26:12,775 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_main_background.xml
+2025-10-07 04:26:12,775 - Knowledge - INFO - worker kw9 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main.xml from ingest queue
+2025-10-07 04:26:12,775 - Knowledge - INFO - Thread kw9 - File ic_main.xml - Remaining files in queue: 12
+2025-10-07 04:26:12,777 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main.xml
+2025-10-07 04:26:12,778 - Knowledge - INFO - worker kw21 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/strings.xml from ingest queue
+2025-10-07 04:26:12,778 - Knowledge - INFO - Thread kw21 - File strings.xml - Remaining files in queue: 11
+2025-10-07 04:26:12,778 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/strings.xml
+2025-10-07 04:26:12,778 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/strings.xml
+2025-10-07 04:26:12,778 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/strings.xml
+2025-10-07 04:26:12,779 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/strings.xml
+2025-10-07 04:26:12,779 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:12,779 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:12,779 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values/strings.xml
+2025-10-07 04:26:12,786 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_home.xml
+2025-10-07 04:26:12,786 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_home.xml
+2025-10-07 04:26:12,787 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_home.xml
+2025-10-07 04:26:12,787 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_main_background.xml
+2025-10-07 04:26:12,787 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_main_background.xml
+2025-10-07 04:26:12,787 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_main_background.xml
+2025-10-07 04:26:12,788 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main.xml
+2025-10-07 04:26:12,788 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main.xml
+2025-10-07 04:26:12,788 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main.xml
+2025-10-07 04:26:12,844 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/strings.xml
+2025-10-07 04:26:12,844 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/strings.xml
+2025-10-07 04:26:12,844 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/strings.xml
+2025-10-07 04:26:13,028 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:13,028 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:13,028 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/main_layout.xml
+2025-10-07 04:26:13,035 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:13,035 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:13,035 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-de/strings.xml
+2025-10-07 04:26:13,038 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:13,038 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:13,038 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+2025-10-07 04:26:13,041 - Knowledge - INFO - worker kw19 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_splash_screen.xml from ingest queue
+2025-10-07 04:26:13,041 - Knowledge - INFO - Thread kw19 - File activity_splash_screen.xml - Remaining files in queue: 10
+2025-10-07 04:26:13,041 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_splash_screen.xml
+2025-10-07 04:26:13,049 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:13,049 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:13,049 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main_round.xml
+2025-10-07 04:26:13,049 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/SECURITY.md to ingest queue
+2025-10-07 04:26:13,050 - Knowledge - INFO - worker kw7 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-es/strings.xml from ingest queue
+2025-10-07 04:26:13,050 - Knowledge - INFO - Thread kw7 - File strings.xml - Remaining files in queue: 10
+2025-10-07 04:26:13,050 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-es/strings.xml
+2025-10-07 04:26:13,051 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:13,051 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:13,051 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_check_24.xml
+2025-10-07 04:26:13,054 - Knowledge - INFO - worker kw15 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/build.gradle from ingest queue
+2025-10-07 04:26:13,054 - Knowledge - INFO - Thread kw15 - File build.gradle - Remaining files in queue: 9
+2025-10-07 04:26:13,054 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/build.gradle
+2025-10-07 04:26:13,058 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-es/strings.xml
+2025-10-07 04:26:13,059 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-es/strings.xml
+2025-10-07 04:26:13,060 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-es/strings.xml
+2025-10-07 04:26:13,060 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:13,060 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:13,060 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_baseline_error_outline_24.xml
+2025-10-07 04:26:13,061 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_splash_screen.xml
+2025-10-07 04:26:13,061 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_splash_screen.xml
+2025-10-07 04:26:13,061 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_splash_screen.xml
+2025-10-07 04:26:13,062 - Knowledge - INFO - adding /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/proguard-rules.pro to ingest queue
+2025-10-07 04:26:13,488 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:13,488 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:13,488 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/drawable/ic_main_background.xml
+2025-10-07 04:26:13,525 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:13,525 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:13,525 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/mipmap-anydpi-v26/ic_main.xml
+2025-10-07 04:26:13,528 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:13,528 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:13,528 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/strings.xml
+2025-10-07 04:26:13,530 - Knowledge - INFO - worker kw13 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/themes.xml from ingest queue
+2025-10-07 04:26:13,530 - Knowledge - INFO - Thread kw13 - File themes.xml - Remaining files in queue: 9
+2025-10-07 04:26:13,530 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/themes.xml
+2025-10-07 04:26:13,539 - Knowledge - INFO - worker kw5 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/README.md from ingest queue
+2025-10-07 04:26:13,540 - Knowledge - INFO - Thread kw5 - File README.md - Remaining files in queue: 8
+2025-10-07 04:26:13,540 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/README.md
+2025-10-07 04:26:13,544 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/themes.xml
+2025-10-07 04:26:13,544 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/themes.xml
+2025-10-07 04:26:13,544 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/themes.xml
+2025-10-07 04:26:13,553 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/README.md
+2025-10-07 04:26:13,553 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/README.md
+2025-10-07 04:26:13,554 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/README.md
+2025-10-07 04:26:13,967 - Knowledge - INFO - worker kw27 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CODE_OF_CONDUCT.md from ingest queue
+2025-10-07 04:26:13,967 - Knowledge - INFO - Thread kw27 - File CODE_OF_CONDUCT.md - Remaining files in queue: 7
+2025-10-07 04:26:13,967 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CODE_OF_CONDUCT.md
+2025-10-07 04:26:13,967 - Knowledge - INFO - worker kw11 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/AndroidManifest.xml from ingest queue
+2025-10-07 04:26:13,968 - Knowledge - INFO - Thread kw11 - File AndroidManifest.xml - Remaining files in queue: 6
+2025-10-07 04:26:13,968 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/AndroidManifest.xml
+2025-10-07 04:26:13,988 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CODE_OF_CONDUCT.md
+2025-10-07 04:26:13,989 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CODE_OF_CONDUCT.md
+2025-10-07 04:26:13,989 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CODE_OF_CONDUCT.md
+2025-10-07 04:26:13,989 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/AndroidManifest.xml
+2025-10-07 04:26:13,990 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/AndroidManifest.xml
+2025-10-07 04:26:13,990 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/AndroidManifest.xml
+2025-10-07 04:26:14,248 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:14,248 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:14,248 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-es/strings.xml
+2025-10-07 04:26:14,257 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:14,257 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:14,257 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_splash_screen.xml
+2025-10-07 04:26:14,259 - Knowledge - INFO - worker kw2 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/build.gradle from ingest queue
+2025-10-07 04:26:14,259 - Knowledge - INFO - Thread kw2 - File build.gradle - Remaining files in queue: 5
+2025-10-07 04:26:14,259 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/build.gradle
+2025-10-07 04:26:14,269 - Knowledge - INFO - worker kw10 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-fr/strings.xml from ingest queue
+2025-10-07 04:26:14,269 - Knowledge - INFO - Thread kw10 - File strings.xml - Remaining files in queue: 4
+2025-10-07 04:26:14,269 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-fr/strings.xml
+2025-10-07 04:26:14,272 - Knowledge - INFO - worker kw24 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/index.html from ingest queue
+2025-10-07 04:26:14,272 - Knowledge - INFO - Thread kw24 - File index.html - Remaining files in queue: 3
+2025-10-07 04:26:14,272 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/index.html
+2025-10-07 04:26:14,275 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:14,276 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:14,276 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/layout/activity_home.xml
+2025-10-07 04:26:14,280 - Knowledge - INFO - worker kw25 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CONTRIBUTING.md from ingest queue
+2025-10-07 04:26:14,281 - Knowledge - INFO - Thread kw25 - File CONTRIBUTING.md - Remaining files in queue: 2
+2025-10-07 04:26:14,281 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CONTRIBUTING.md
+2025-10-07 04:26:14,285 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-fr/strings.xml
+2025-10-07 04:26:14,285 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-fr/strings.xml
+2025-10-07 04:26:14,285 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-fr/strings.xml
+2025-10-07 04:26:14,291 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/index.html
+2025-10-07 04:26:14,291 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/index.html
+2025-10-07 04:26:14,291 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/index.html
+2025-10-07 04:26:14,322 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CONTRIBUTING.md
+2025-10-07 04:26:14,322 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CONTRIBUTING.md
+2025-10-07 04:26:14,322 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CONTRIBUTING.md
+2025-10-07 04:26:14,335 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/build.gradle
+2025-10-07 04:26:14,335 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/build.gradle
+2025-10-07 04:26:14,336 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/build.gradle
+2025-10-07 04:26:14,692 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:14,692 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:14,692 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/README.md
+2025-10-07 04:26:14,728 - Knowledge - INFO - worker kw6 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/SECURITY.md from ingest queue
+2025-10-07 04:26:14,728 - Knowledge - INFO - Thread kw6 - File SECURITY.md - Remaining files in queue: 1
+2025-10-07 04:26:14,728 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/SECURITY.md
+2025-10-07 04:26:14,757 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/SECURITY.md
+2025-10-07 04:26:14,758 - Knowledge - INFO - done fast ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/SECURITY.md
+2025-10-07 04:26:14,758 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/SECURITY.md
+2025-10-07 04:26:15,461 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:15,461 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:15,461 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CODE_OF_CONDUCT.md
+2025-10-07 04:26:15,465 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:15,465 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:15,465 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/AndroidManifest.xml
+2025-10-07 04:26:15,671 - Knowledge - INFO - worker kw23 pull /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/proguard-rules.pro from ingest queue
+2025-10-07 04:26:15,671 - Knowledge - INFO - Thread kw23 - File proguard-rules.pro - Remaining files in queue: 0
+2025-10-07 04:26:15,671 - Knowledge - INFO - start ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/proguard-rules.pro
+2025-10-07 04:26:16,655 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:16,655 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:16,655 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-fr/strings.xml
+2025-10-07 04:26:16,665 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:16,665 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:16,665 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/index.html
+2025-10-07 04:26:16,669 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:16,669 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:16,670 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/CONTRIBUTING.md
+2025-10-07 04:26:16,674 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:16,674 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:16,674 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/build.gradle
+2025-10-07 04:26:16,680 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:16,680 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:16,680 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/res/values-night/themes.xml
+2025-10-07 04:26:16,923 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:16,923 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:16,923 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/SECURITY.md
+2025-10-07 04:26:17,259 - Knowledge - INFO - done ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/build.gradle
+2025-10-07 04:26:17,260 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/build.gradle
+2025-10-07 04:26:18,442 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:18,443 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:18,443 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/build.gradle
+2025-10-07 04:26:19,553 - Knowledge - INFO - done ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/proguard-rules.pro
+2025-10-07 04:26:19,553 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/proguard-rules.pro
+2025-10-07 04:26:19,589 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:19,590 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:19,590 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/proguard-rules.pro
+2025-10-07 04:26:22,149 - Knowledge - INFO - done ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/network/InternetConnectivity.java
+2025-10-07 04:26:22,149 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/network/InternetConnectivity.java
+2025-10-07 04:26:22,183 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:22,183 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:22,183 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/network/InternetConnectivity.java
+2025-10-07 04:26:23,308 - Knowledge - INFO - persist search terms embedding for app/src/main/java/com/aniketjain/weatherapp/network/InternetConnectivity.java
+2025-10-07 04:26:24,164 - Knowledge - INFO - done ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/androidTest/java/com/aniketjain/weatherapp/ExampleInstrumentedTest.java
+2025-10-07 04:26:24,165 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/androidTest/java/com/aniketjain/weatherapp/ExampleInstrumentedTest.java
+2025-10-07 04:26:24,224 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:24,224 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:24,224 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/androidTest/java/com/aniketjain/weatherapp/ExampleInstrumentedTest.java
+2025-10-07 04:26:24,240 - Knowledge - INFO - done ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/update/UpdateUI.java
+2025-10-07 04:26:24,240 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/update/UpdateUI.java
+2025-10-07 04:26:24,271 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:24,271 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:24,271 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/update/UpdateUI.java
+2025-10-07 04:26:24,379 - Knowledge - INFO - done ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/toast/Toaster.java
+2025-10-07 04:26:24,379 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/toast/Toaster.java
+2025-10-07 04:26:24,627 - Knowledge - INFO - done ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/CityFinder.java
+2025-10-07 04:26:24,627 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/CityFinder.java
+2025-10-07 04:26:25,022 - Knowledge - INFO - persist search terms embedding for app/src/main/java/com/aniketjain/weatherapp/update/UpdateUI.java
+2025-10-07 04:26:25,791 - Knowledge - INFO - persist search terms embedding for app/src/androidTest/java/com/aniketjain/weatherapp/ExampleInstrumentedTest.java
+2025-10-07 04:26:25,827 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:25,827 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:25,827 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/location/CityFinder.java
+2025-10-07 04:26:25,867 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:25,867 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:25,867 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/toast/Toaster.java
+2025-10-07 04:26:25,873 - Knowledge - INFO - done ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/url/URL.java
+2025-10-07 04:26:25,876 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/url/URL.java
+2025-10-07 04:26:26,381 - Knowledge - INFO - done ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/SplashScreen.java
+2025-10-07 04:26:26,382 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/SplashScreen.java
+2025-10-07 04:26:26,730 - Knowledge - INFO - persist search terms embedding for app/src/main/java/com/aniketjain/weatherapp/location/CityFinder.java
+2025-10-07 04:26:27,767 - Knowledge - INFO - persist search terms embedding for app/src/main/java/com/aniketjain/weatherapp/toast/Toaster.java
+2025-10-07 04:26:27,777 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:27,777 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:27,777 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/url/URL.java
+2025-10-07 04:26:27,901 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:27,901 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:27,901 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/SplashScreen.java
+2025-10-07 04:26:28,253 - Knowledge - INFO - done ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/adapter/DaysAdapter.java
+2025-10-07 04:26:28,258 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/adapter/DaysAdapter.java
+2025-10-07 04:26:28,853 - Knowledge - INFO - persist search terms embedding for app/src/main/java/com/aniketjain/weatherapp/SplashScreen.java
+2025-10-07 04:26:29,422 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:29,422 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:29,422 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/adapter/DaysAdapter.java
+2025-10-07 04:26:30,428 - Knowledge - INFO - persist search terms embedding for app/src/main/java/com/aniketjain/weatherapp/url/URL.java
+2025-10-07 04:26:31,430 - Knowledge - INFO - persist search terms embedding for app/src/main/java/com/aniketjain/weatherapp/adapter/DaysAdapter.java
+2025-10-07 04:26:31,713 - Knowledge - INFO - done ingest for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/HomeActivity.java
+2025-10-07 04:26:31,714 - Knowledge - INFO - process ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/HomeActivity.java
+2025-10-07 04:26:31,722 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/WeatherApp-Android-25657.git:kavia-master
+2025-10-07 04:26:31,723 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fb09ee77190>
+2025-10-07 04:26:31,723 - Knowledge - INFO - persist ingested knowledge for /app/data/T0002/25657/b0495wp/WeatherApp-Android-25657/app/src/main/java/com/aniketjain/weatherapp/HomeActivity.java
+2025-10-07 04:26:32,061 - Knowledge - INFO - persist search terms embedding for app/src/main/java/com/aniketjain/weatherapp/HomeActivity.java
+2025-10-07 04:26:32,064 - Knowledge - INFO - Knowledge creation complete
+2025-10-07 04:26:32,065 - Knowledge - INFO - Updating org costs, total cost: 0.0038171999999999998
+2025-10-07 04:26:32,477 - Knowledge - INFO - Saving knowledge to Redis...
+2025-10-07 04:26:32,498 - Knowledge - INFO - Knowledge saved to Redis successfully
